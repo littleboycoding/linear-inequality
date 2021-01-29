@@ -2,7 +2,7 @@
   "name": "linear-inequality",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/linear-inequality",
+  "homepage": "https://littleboycoding.github.io/linear-inequality",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
