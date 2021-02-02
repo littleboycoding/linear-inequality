@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { useInView } from "react-intersection-observer";
-import styled from "styled-components";
+import styled from "styled-components/macro";
 
 import Ploy from "./Photo/ploy.jpg";
 import Game from "./Photo/game.jpg";
